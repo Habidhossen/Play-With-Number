@@ -1,7 +1,6 @@
 # Play-With-Number
  This is a simple Guessing game app using Java.
  
- Screenshots:
  ![Screenshot_20210619-030855_Play With Number](https://user-images.githubusercontent.com/85643435/128557597-b754379b-4cf8-4d3c-87ab-c6d4335526ea.jpg)
  
  ![Screenshot_20210619-030858_Play With Number](https://user-images.githubusercontent.com/85643435/128557745-77f4fd1d-5ddb-4a97-9bb3-aa900b392dbb.jpg)
